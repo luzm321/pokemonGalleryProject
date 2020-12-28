@@ -1,0 +1,68 @@
+.firstParagraph {
+  font-size: 30px;
+  color: green;
+}
+
+body {
+  background-color:green;
+}
+
+.firstButton {
+  color: white;
+  background-color: blue;
+  border-radius: 15px;
+}
+
+.pokemons {
+  font-size: 50px;
+  color: violet;
+}
+
+.first {
+  font-size: 20px;
+  color: green;
+}
+
+.second {
+  font-size: 20px;
+  color: paleturquoise;
+}
+
+.third {
+  font-size: 20px;
+  color: black;
+}
+.fourth {
+  font-size: 20px;
+  color: lightskyblue;
+}
+
+.fifth {
+  font-size: 20px;
+  color: darkgreen;
+}
+
+.sixth {
+  font-size: 20px;
+  color: darkgray;
+}
+
+.seventh {
+  font-size: 20px;
+  color: red;
+}
+
+.eight {
+  font-size: 20px;
+  color: lightsteelblue;
+}
+
+.ninth {
+  font-size: 20px;
+  color: lightblue;
+}
+
+.tenth {
+  font-size: 20px;
+  color: salmon;
+}

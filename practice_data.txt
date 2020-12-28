@@ -1,0 +1,12 @@
+var pokeIdsArray = [ "poke1", "poke2", "poke3", "poke4" ]
+
+myFavoritePokemons = () => {
+   for ( let i = 0; i < pokeIdsArray.length; i++) {
+    getTitle(pokeIdsArray[i])
+} 
+}
+
+getTitle = (elementId) => {
+    var element = document.getElementById(elementId).innerHTML
+    console.log("My favorite pokemon is:", element)
+}
